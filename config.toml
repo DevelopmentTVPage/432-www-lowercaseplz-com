@@ -1,0 +1,13 @@
+#Hugo configuration
+title = "fgj"
+baseURL = "https:\/\/www.lowercaseplz.com"
+languageCode = "en-us"
+theme = "tvpage"
+disablePathToLower = "true"
+enableRobotsTXT = true
+
+[params]
+loginId = "1758397"
+subfolder = ""
+firstpartycookies = true
+cookiedomain = "lowercaseplz.com"
